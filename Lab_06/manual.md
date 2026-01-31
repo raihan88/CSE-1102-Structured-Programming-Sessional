@@ -1,10 +1,6 @@
-# Structured Programming Language Sessional, Lab 06
+# Structured Programming Language Sessional, Lab 06 Week 06
 
 ## Lab Title: Arrays and String — Part 1
-
-**Week: 06**
-**Corresponding CO–PO:**
-**CO3:** _Apply arrays, strings, pointers, and dynamic memory to solve structured programming problems in C while following basic debugging and coding practices._
 
 ## Lab Objectives
 
@@ -15,6 +11,14 @@ At the end of this lab, students will be able to:
 - Explain the memory representation of arrays
 - Implement linear search to find an element in an array
 - Analyze the time complexity of linear search in best, average, and worst cases
+
+### Course Outcome (CO) and Program Outcome (PO) Mapping
+
+This experiment addresses the following course outcome and its associated program outcome:
+
+- **Course Outcome (CO3):** _Apply arrays, strings, pointers, and dynamic memory to solve structured programming problems in C while following basic debugging and coding practices._
+
+- **Mapped Program Outcome (PO1):** _Create, select and apply and recognize limitations of appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering problems._
 
 ## Lab Problems
 

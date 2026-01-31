@@ -1,4 +1,4 @@
-# CSE 1102 Structured Programming Sessional, Week 04
+# CSE 1102 Structured Programming Sessional, Lab 04 Week 04
 
 ## Experiment: Loops in C
 
