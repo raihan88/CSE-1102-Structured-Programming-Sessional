@@ -1,6 +1,6 @@
 # CSE 1102: Structured Programming Sessional, Lab 02 Week 02
 
-## Lab Title: Arrays and String Part 1
+## Lab Title: Variable, Data Types and Expression
 
 ## Lab Objectives
 
