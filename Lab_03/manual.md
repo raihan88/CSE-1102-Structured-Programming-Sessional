@@ -183,3 +183,22 @@ Write a C program to check whether a number is even or odd using ternary operato
 ### Problem 13:
 
 Write a program that takes two integers as input from the user and uses the ternary operator to find and print the larger of the two.
+
+**_Choose any three problems from this practice problem list to prepare your lab report. The detailed instructions for preparing the lab report are provided in the Lab 02 manual. Please follow them carefully._**
+
+### Practice Problems:
+
+1. Write a program to check whether a number is divisible by 5.
+2. Write a program to check whether a character is an uppercase or lowercase letter.
+3. Write a program to check whether a triangle is (given three sides):
+   - Equilateral
+   - Isosceles
+   - Scalene
+4. Write a program to check whether three sides can form a valid triangle.
+5. Write a program to input a month number (1–12) and print the number of days in that month (ignore leap year).
+6. Write a program that takes a number (1–4) and prints:
+   - 1 → North
+   - 2 → South
+   - 3 → East
+   - 4 → West
+7. Write a program to check whether a person is eligible to vote (age ≥ 18) using ternary operator.
